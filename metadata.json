@@ -1,0 +1,10 @@
+{
+  "name": "Assistente de Voz IA",
+  "description": "Um assistente inteligente controlado por comandos de voz com uma interface interativa inspirada no ChatGPT voice mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
